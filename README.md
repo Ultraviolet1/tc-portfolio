@@ -1,2 +1,2 @@
-# tc-portfolio
-Personal portfolio for webpage
+# Basic-Portfolio
+Portfolio 
